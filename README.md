@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning 
 - 📫 How to reach me ...
-             instagram.com/nahilrasheed
+             instagram.com/nahilrasheed ,
              twitter.com/nahilrasheed
 
 <!---
