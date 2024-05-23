@@ -2,6 +2,7 @@
 <h3 align="center">A Student, Developer and Hacker.</h3>
 
 - 🌱 I’m currently learning **Cyber Security**
+- 🏢 B.Tech'27 @ IIIT Kottayam.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
