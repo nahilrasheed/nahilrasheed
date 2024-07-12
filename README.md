@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nahil Rasheed</h1>
 <h3 align="center">A Student, Developer and Hacker.</h3>
 
-- 🌱 I’m currently learning **Cyber Security**
 - 🏢 B.Tech'27 @ IIIT Kottayam.
+- 🌱 I’m currently learning **Computer Science** and **Cyber Security**
+- ⚡ Software Development | Cyber Security | Bug Bounty | CTF
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
