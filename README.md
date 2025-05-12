@@ -31,14 +31,18 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahilrasheed&label=Profile%20views&color=0e75b6&style=flat" alt="nahilrasheed" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahilrasheed&label=views&color=0e75b6&style=flat-square" alt="nahilrasheed" /> </p>
 <details>
 <summary>Stats</summary>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahilrasheed&show_icons=true&locale=en&layout=compact" alt="nahilrasheed" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahilrasheed&show_icons=true&locale=en" alt="nahilrasheed" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahilrasheed&" alt="nahilrasheed" /></p>
+<a href="https://github.com/nahilrasheed/">
+<img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=nahilrasheed&include_all_commits=true&show_icons=true&theme=dark&locale=en&hide_border=true" alt="nahilrasheed" />
+</a>
+<a href="https://github.com/nahilrasheed/">
+<img align="center" height=200 src="https://nirzak-streak-stats.vercel.app/?user=nahilrasheed&theme=dark&hide_border=true" alt="nahilrasheed" />
+</a>
+<a href="https://github.com/nahilrasheed/">
+<img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=nahilrasheed&include_all_commits=true&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="nahilrasheed" />
+</a>
 </details>
 <!---
 nahilrasheed/nahilrasheed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
