@@ -2,7 +2,7 @@
 <h3 align="left">A Student, Developer and a Cybersecurity enthusiast.</h3>
 
 - 🏢 I'm a student studying B.Tech CSE with specialization in Cyber Security @ IIIT Kottayam.
-- 🌱 I’m currently learning **Computer Science** and **Cyber Security**
+- 🌱 I’m currently learning **Web Development** and **Cyber Security**
 - ⚡ Web Development | Software Engineering | Cyber Security | Bug Bounty | CTF
 
 <h3 align="left">Connect with me:</h3>
