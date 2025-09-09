@@ -5,13 +5,6 @@
 - 🌱 I’m currently learning **Web Development** and **Cyber Security**
 - ⚡ Web Development | Software Engineering | Cyber Security | Bug Bounty | CTF
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/nahilrasheed" target="blank"><img align="center" src="https://cdn.simpleicons.org/x/ffffff" alt="nahilrasheed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nahilrasheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahilrasheed" height="30" width="40" /></a>
-<a href="https://instagram.com/nahilrasheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nahilrasheed" height="30" width="40" /></a>
-</p>
-
 <h3> 💻 Tech Stack: </h3>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
