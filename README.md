@@ -5,6 +5,14 @@
 - 🌱 I’m currently learning **Web Development** and **Cyber Security**
 - ⚡ Web Development | Software Engineering | Cyber Security | Bug Bounty | CTF
 
+<a href="https://nahil.xyz"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+<a href="https://nahil.xyz/rss.xml"><img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/nahilrasheed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.x.com/0xnhl"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+<a href="https://tryhackme.com/p/0xnhl"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"></a>
+<!--<a href="https://profile.hackthebox.com/profile/019dcfa1-babb-73c3-b27c-57a814b804d5"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00"></a>-->
+<!--<a href="https://hackerone.com/0xnhl?type=user"><img src="https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white"></a>-->
+
 <h3> 💻 Tech Stack: </h3>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -29,21 +37,28 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) <br>
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![Burpsuite](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahilrasheed&label=views&color=0e75b6&style=flat-square" alt="nahilrasheed" /> </p>
 <details>
 <summary>Stats</summary>
+
 <a href="https://github.com/nahilrasheed/">
 <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=nahilrasheed&include_all_commits=true&show_icons=true&theme=dark&locale=en&hide_border=true" alt="nahilrasheed" />
 </a>
-<a href="https://github.com/nahilrasheed/">
-<img align="center" height=200 src="https://nirzak-streak-stats.vercel.app/?user=nahilrasheed&theme=dark&hide_border=true" alt="nahilrasheed" />
-</a>
+
 <a href="https://github.com/nahilrasheed/">
 <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=nahilrasheed&include_all_commits=true&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="nahilrasheed" />
 </a>
+
+<a href="https://github.com/nahilrasheed/">
+<img align="center" height=200 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahilrasheed&theme=dark" alt="nahilrasheed" />
+</a>
+
 </details>
 <!---
 nahilrasheed/nahilrasheed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
